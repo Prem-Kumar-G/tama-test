@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "myapp",
-    "slug": "myapp",
+    "owner":"prempro42",
+    "slug": "next-expo-solito-monorepo",
     "scheme": "myapp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -33,7 +34,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "061b4470-78c7-4d6a-b850-8167fb0a3434"
+        "projectId": "b2c301f2-5212-4b52-ae1d-46cd9386feab"
       }
     }
   }
